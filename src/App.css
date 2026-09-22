@@ -27,7 +27,7 @@
 }
 #input {
   padding: 15px;
-  width: 70%;
+  width: 50%;
   border-radius: 20px;
   background-color: rgba(255, 255, 255, 0.178);
   border-style: none;
@@ -222,7 +222,7 @@ h3 {
 }
 @media (max-width: 40px) {
   #page-container {
-    width:90%;
+    width:100%;
   }
   #list {
     padding: 5px;
@@ -230,6 +230,6 @@ h3 {
   }
   #description {
     padding: 8px;
-    font-size: 15px;
+    font-size: 10px;
   }
 }

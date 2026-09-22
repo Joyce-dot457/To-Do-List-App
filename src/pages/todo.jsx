@@ -64,7 +64,7 @@ function TodoList() {
           <div id="confirmation">
             {/*le bouton clique affiche la nouvelle valeur de confirmation */}
             <div id="clear-nametask">
-              <p id="name">liste de taches</p>
+              <p id="name">listes</p>
               <button onClick={() => setConfirm(tasks)} id="clear">
             
                clear
